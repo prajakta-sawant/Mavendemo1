@@ -5,7 +5,6 @@ import junit.framework.TestCase;
 
 
 public class AppTest 
-    extends TestCase
 {
    	@Test
 	public void test1() {
